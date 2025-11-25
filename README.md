@@ -7,10 +7,9 @@
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Python, SQL, IA e Storytelling**
+- 🎓 Analista de dados, e aspirante AI Developer
 - 📊 Focada em transformar estudos em **projetos práticos**
 - 🧠 Interesses: dados, automações, LLMs, agentes, pipelines e análise
-- ✨ Aprendizado consistente, passo a passo, com evolução mensal
 
 ---
 
@@ -29,13 +28,6 @@
 - 📝 `storytelling-dev`: resumos e insights sobre comunicação e clareza na tecnologia
 
 *(Os repositórios serão atualizados conforme evolução dos estudos.)*
-
----
-
-## 🧠 Meu jeito de aprender
-- Aprender → Praticar → Criar projeto → Revisar  
-- Não pular etapas  
-- Criar portfólio com evolução real, não perfeição
 
 ---
 
