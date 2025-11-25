@@ -1,7 +1,7 @@
 ## Hi 👋
 <h1 align="center">👩🏻‍💻 Vanessa Araujo</h1>
 <p align="center">
-AI Developer Aspirant, apaixonada por dados e migrando pra Inteligência Artificial
+AI Developer Aspirant, apaixonada por dados e migrando para Inteligência Artificial
 </p>
 
 ---
