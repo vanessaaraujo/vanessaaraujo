@@ -46,6 +46,3 @@
   </a>
 </p>
 
----
-
-<h3 align="center">✨ Construindo meu caminho na tecnologia • Um commit por vez ✨</h3>
