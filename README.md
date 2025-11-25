@@ -1,16 +1,51 @@
 ## Hi there 👋
+<h1 align="center">👩🏻‍💻 Vanessa Araujo</h1>
+<p align="center">
+  Aprendendo Python, SQL e Inteligência Artificial • Criando projetos para desenvolver habilidades reais
+</p>
 
-<!--
-**vanessaaraujo/vanessaaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 🎓 Estudante de **Python, SQL, IA e Storytelling**
+- 📊 Focada em transformar estudos em **projetos práticos**
+- 🧠 Interesses: dados, automações, LLMs, agentes, pipelines e análise
+- ✨ Aprendizado consistente, passo a passo, com evolução mensal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Foco atual
+- 🐍 **Python** (fundamentos, lógica, POO)
+- 🗃️ **SQL** (queries, joins, modelagem e bancos relacionais)
+- 🤖 **Inteligência Artificial** (IA aplicada, automações, projetos com LLMs)
+- 🧪 **Projetos mensais práticos** para consolidar conhecimento
+
+---
+
+## 🧩 Projetos em andamento
+- 📘 `learning-python`: exercícios, anotações, pequenos scripts
+- 📊 `sql-labs`: consultas SQL reais para treinar lógica
+- 🤖 `ai-study-projects`: pequenos projetos de IA para portfólio
+- 📝 `storytelling-dev`: resumos e insights sobre comunicação e clareza na tecnologia
+
+*(Os repositórios serão atualizados conforme evolução dos estudos.)*
+
+---
+
+## 🧠 Meu jeito de aprender
+- Aprender → Praticar → Criar projeto → Revisar  
+- Não pular etapas  
+- Criar portfólio com evolução real, não perfeição
+
+---
+
+## 📫 Contato
+<p>
+  <a href="https://www.linkedin.com/in/vanessaaraujo">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Construindo meu caminho na tecnologia • Um commit por vez ✨</h3>
