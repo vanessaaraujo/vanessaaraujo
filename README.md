@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 <h1 align="center">👩🏻‍💻 Vanessa Araujo</h1>
 <p align="center">
   Aprendendo Python, SQL e Inteligência Artificial • Criando projetos para desenvolver habilidades reais
