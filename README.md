@@ -33,7 +33,7 @@ AI Developer Aspirant, apaixonada por dados e migrando para Inteligência Artifi
 
 ## 📫 Contato
 <p>
-  <a href="https://www.linkedin.com/in/vanessaaraujo">
+  <a href="https://www.linkedin.com/in/vanessaaraujo-">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
