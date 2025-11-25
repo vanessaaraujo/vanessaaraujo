@@ -1,7 +1,7 @@
 ## Hi 👋
 <h1 align="center">👩🏻‍💻 Vanessa Araujo</h1>
 <p align="center">
-  Aprendendo Python, SQL e Inteligência Artificial • Criando projetos para desenvolver habilidades reais
+AI Developer Aspirant, apaixonada por dados e migrando pra Inteligência Artificial
 </p>
 
 ---
